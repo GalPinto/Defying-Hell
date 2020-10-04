@@ -8,3 +8,5 @@ I contacted my good friend Eve, a well-known eavesdropper. She sent me the numbe
 Help me find both private keys. To submit the flag, decode them correctly and wrap them into CTFlearn{<Alice>_<Bob>} format.
 
 Hint: the title of this challenge is a pun... I can't tell you more ;)
+
+https://ctflearn.com/challenge/927
